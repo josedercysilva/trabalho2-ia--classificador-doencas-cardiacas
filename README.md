@@ -1,11 +1,13 @@
 # Previsão de doenças cardíacas usando redes neurais (IA - 2025/2, Professor Edjard, Trabalho 2)
 
 ### Membros
-- José Dercy V. da Silva Filho           <jose.dercy@icomp.ufam.edu.br>
-- Ronaldo Rodrigues Soares               <ronaldo.soares@icomp.ufam.edu.br>
-- Yan Fernandes da Silva                 <yan.silva@icomp.ufam.edu.br>
-- Beatriz Emily Silva Aguiar             <beatriz.aguiar@icomp.ufam.edu.br>
-- Matheus Ricardo Oliveira Lima          <matheus.ricardo@icomp.ufam.edu.br>
+| Membro | Email |
+| :--- | :--- |
+| José Dercy V. da Silva Filho | <jose.dercy@icomp.ufam.edu.br> |
+| Ronaldo Rodrigues Soares | <ronaldo.soares@icomp.ufam.edu.br> |
+| Yan Fernandes da Silva | <yan.silva@icomp.ufam.edu.br> |
+| Beatriz Emily Silva Aguiar | <beatriz.aguiar@icomp.ufam.edu.br> |
+| Matheus Ricardo Oliveira Lima | <matheus.ricardo@icomp.ufam.edu.br> |
 
 ## Descrição
 Este repositório aplica uma rede neural (Multi-Layer Perceptron / Keras) para prever a presença de doença coronariana usando o conjunto de dados "Heart Disease" do repositório UCI.
