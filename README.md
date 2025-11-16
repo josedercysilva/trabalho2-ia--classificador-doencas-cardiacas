@@ -4,8 +4,8 @@
 | Membro | Email |
 | :--- | :--- |
 | José Dercy Vieira da Silva Filho | <jose.dercy@icomp.ufam.edu.br> |
-| Ronaldo Rodrigues Soares | <ronaldo.soares@icomp.ufam.edu.br> |
 | Yan Fernandes da Silva | <yan.silva@icomp.ufam.edu.br> |
+| Ronaldo Rodrigues Soares | <ronaldo.soares@icomp.ufam.edu.br> |
 | Beatriz Emily Silva Aguiar | <beatriz.aguiar@icomp.ufam.edu.br> |
 | Matheus Ricardo Oliveira Lima | <matheus.ricardo@icomp.ufam.edu.br> |
 
